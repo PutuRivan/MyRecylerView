@@ -14,7 +14,6 @@ public class HeroesData {
             "Soekarno",
             "Soepomo",
             "Tan Malaka",
-            "Putu Rivan Anggana Dharmawangsa"
     };
     private static String[] heroDetails = {
             "Salah seorang ulama dan khatib terkemuka di Masjid Besar Kasultanan Yogyakarta pada masa itu, dan ibu dari K.H.Ahmad Dahlan adalah puteri dari H.Ibrahim yang juga menjabat penghulu Kesultanan Ngayogyakarta Hadiningrat pada masa itu.",
